@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Version 2 - Improved Quiz Game
 
 # This version works the same as Version 1,
@@ -8,6 +9,8 @@
 
 # Now new questions can be added easily.
 
+=======
+>>>>>>> 893c5317ba388722b9e295888532099ef094cae1
 print("Welcome to Quiz Game!")
 score = 0
 q1="Capital of India?\nA. Mumbai\nB. Delhi\nC. Kolkata\nD. Chennai"
